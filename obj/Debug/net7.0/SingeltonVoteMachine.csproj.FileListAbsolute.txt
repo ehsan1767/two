@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.AssemblyInfo.cs
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\bin\Debug\net7.0\SingeltonVoteMachine.exe
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\bin\Debug\net7.0\SingeltonVoteMachine.deps.json
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\bin\Debug\net7.0\SingeltonVoteMachine.runtimeconfig.json
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\bin\Debug\net7.0\SingeltonVoteMachine.dll
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\bin\Debug\net7.0\SingeltonVoteMachine.pdb
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.dll
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\refint\SingeltonVoteMachine.dll
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.pdb
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\SingeltonVoteMachine.genruntimeconfig.cache
+C:\Users\user\Desktop\Tools Programing\Project\SingeltonVoteMachine\obj\Debug\net7.0\ref\SingeltonVoteMachine.dll
